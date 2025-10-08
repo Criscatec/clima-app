@@ -34,9 +34,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "EXPO_PUBLIC_OPENWEATHER_API_KEY": "3c51cdeb2302eda8fcb5d2b30b7f1cfe"
     }
   }
 }
